@@ -29,7 +29,7 @@ global.APIs = {
 
 //Api Key\\
 
-global.APIKeys = {
+global.APIKeys = {3b56656c-4027-4efa-b6fb-5dc438ee20ea
 
 	'https://zenzapis.xyz': '0b0df72a76', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 
